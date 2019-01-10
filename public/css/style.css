@@ -306,6 +306,7 @@ input {
 	background-image: url('../img/resultsbg.jpg');
 	margin-left: auto; 
 	margin-right: auto;
+	overflow: scroll;
 }
 
 .name-container {
